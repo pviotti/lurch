@@ -5,10 +5,18 @@ as a collateral effort for my M.Sc. thesis in computers and
 communication networks at [PoliTo][2] and [Telecom ParisTech][3], during 
 a six months intership at [Orange Labs][4].  
 
+An improved version of this tool has been used for large scale experimental deployments
+as explained in [this][5] CCNxCon presentation.
+
+For results obtained using Lurch, please refer to [my M.Sc. thesis][6].
+
+
 [1]: http://www.ccnx.org/
 [2]: http://www.polito.it/
 [3]: http://www.telecom-paristech.fr
 [4]: http://www.orange.com/en/innovation/research
+[5]: http://www.ccnx.org/wp-content/uploads/2013/07/CCNDeployment_6_Carofiglio.ppt
+[6]: http://perso.rd.francetelecom.fr/muscariello/MS-thesis-viotti.pdf
 
 
 ### Features
@@ -116,7 +124,7 @@ as this was a personal tool I coded just for speeding up my tests setups.
 
 ### License
 
-Copyright 2010 Paolo Viotti.  
+Copyright 2010 Paolo Viotti.  (name.surname at gmail)
 Licensed under the **Apache License**, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at  http://www.apache.org/licenses/LICENSE-2.0.  
