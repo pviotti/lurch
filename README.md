@@ -78,7 +78,7 @@ Few other parameters are hardcoded in the first lines of file `lurch/CCNxManager
 
 Results of tests consist in these files:
 
- * `lurch.log` - mail application log
+ * `lurch.log` - main application log
  * `logs.tar.gz` - archive containing single download log files
  * `pop_prob.in` - a posteriori statistics about popularity
  * `results.in` - statistics about throughput
